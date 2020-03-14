@@ -14,5 +14,8 @@ trung ne
 toi la master
 
 
+
 lan thu 2 ne : toi la master.
+
+lan 2 toi la trung
 

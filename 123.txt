@@ -1,7 +1,4 @@
 alo trung đã đổi thành tr
 
-<<<<<<< HEAD
 toi là master, tôi đã vào đây.
-=======
 - toi là trung, toi cung dã vào.
->>>>>>> trung

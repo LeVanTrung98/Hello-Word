@@ -1,1 +1,3 @@
 master : tao là master.
+
+2 : tao là fixbug. Tao đã fixbug xong.

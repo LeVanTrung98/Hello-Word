@@ -10,4 +10,4 @@ master : tao là master.
 4 : commit and delete commit in local repository. this is 2; this is 3;
 
 addnew : demo rebase. demo rebase 2.
-
+addnew : demo, commit --amend

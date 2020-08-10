@@ -5,3 +5,7 @@ master : tao là master.
 
 2 : tao là fixbug. Tao đã fixbug xong.
 
+3 : tao là addnew. tao đã thêm mới chức năng thành công.
+
+4 : commit and delete commit in local repository. this is 2; this is 3;
+
